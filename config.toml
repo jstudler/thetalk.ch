@@ -1,4 +1,4 @@
-baseURL = 'http://thetalk.pages.dev/'
+baseURL = 'https://thetalk.pages.dev/'
 languageCode = 'de-ch'
 title = 'The Talk!'
 
